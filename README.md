@@ -11,6 +11,6 @@
 
 <h2 id="contact-me">Contact me :</h2>
 <p>📫 <a href="rovinoalan@gmail.com"><img src="https://img.shields.io/badge/-rovinoalan@gmail.com-blue?style=flat-roundedrectangle&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:rovinoalan@gmail.com" alt="Gmail Badge"></a>
-<a href="https://www.instagram.com/vino.alana_/"><img src="https://img.shields.io/badge/-asthi_21_-E4405F?style=flat-roundedrectangle&amp;logo=instagram&amp;logoColor=white&amp;link=https://www.instagram.com/vino.alana_/" alt="Instagram Badge"></a></p>
+<a href="https://www.instagram.com/vino.alana_/"><img src="https://img.shields.io/badge/-vino.alana_-E4405F?style=flat-roundedrectangle&amp;logo=instagram&amp;logoColor=white&amp;link=https://www.instagram.com/vino.alana_/" alt="Instagram Badge"></a></p>
 
 <img src="https://raw.githubusercontent.com/RovinoAlana/RovinoAlana/output/snake.svg" alt="Snake animation">
