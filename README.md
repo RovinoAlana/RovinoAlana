@@ -4,7 +4,7 @@
 
 <p><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a></p>
 <p>  <img src="https://github-readme-stats.vercel.app/api?username=RovinoAlana&amp;hide_title=false&amp;hide_rank=false&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;disable_animations=false&amp;theme=dracula&amp;locale=en&amp;hide_border=false" style="max-width: 100%; height: auto;" alt="stats graph">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RovinoAlana&amp;theme=tokyonight" alt="mystreak">
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RovinoAlana&theme=tokyonight)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RovinoAlana&amp;theme=tokyonight&amp;layout=compact" alt="Lakamoley's Top Langs"></p>
 
 
